@@ -1,0 +1,13 @@
+---
+layout: post
+title:      "Scenario Focused Engineering: Releasing something that feels right. "
+date:       2018-12-03 01:20:31 +0000
+permalink:  scenario_focused_engineering_releasing_something_that_feels_right
+---
+
+
+This week I finished my first project(scraping), assigned for the main purpose of having the student demonstrate aptitude in object-oriented programming. Not surprising, the “getting started” part is probably where most students initially get tripped up. Once you get going however you can start to use the tools you accumulated over the last four weeks, stringing them together and actually making something happen. Unfortunately as a result of growing up in the 80’s I tend to experience events in my life and then create an analogy to an 80’s movie. In this case its the Karate Kid. Daniel is told to do a bunch of chores by Mr. Miyagi. As a result of these tasks he is developing muscle memory, so when the time comes he automatically puts these movements together, creating something much larger. This is sort of how I felt, I started pulling out some moves and creating something out of smaller individual pieces. 
+
+As I was developing my application I started to look at the feature and think “hey, wouldn’t it be much better if it did this instead”. Time didn’t allow me to make all the changes that I wanted to. As I was working on the project I remembered a concept that I encountered at Microsoft called Scenario Focused Engineering.There’s lots to it, but one of the basic ideas is that you constantly receive feedback from customers during the development cycle and iterate on the product until it just feels right for the customer. You remove the business pressure of timed releases and you eventually release something that makes sense, something customers will want. In the case of my scraping project, the challenge served a purpose for me as a Developer(to show what I learned) but not so much as a user. For example, in my project I am scraping the USA Today NFL Rankings page, going “one level deep” and displaying additional statistics based on a user’s input. All of the information on the webpage exists, I just make it a little easier to find regarding one specific category. What I should have done, and what I think a user would have wanted, was something the webpage DIDN’T offer, like scraping some data and manipulating it in some way that gives the user some additional insight that the webpage did not(a unique category, etc).  
+
+Overall however, as a first project, I learned quite a bit, and I look forward to taking this project and improving on it at a later date.

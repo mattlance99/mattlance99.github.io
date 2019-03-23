@@ -1,14 +1,13 @@
 ---
 layout: post
 title:      "What do you mean “Do not use remote: true" ?"
-date:       2019-03-23 20:53:03 +0000
+date:       2019-03-23 16:53:04 -0400
 permalink:  what_do_you_mean_do_not_use_remote_true
 ---
 
 
 One of the first few sentences (in bold font) within the instructions of the Rails with JavaScript Portfolio Project states “Do not use remote: true in this application”. What does that mean? We never talked about it. I don’t recall seeing that within the lessons. It sounded like a warning, similar to “Danger! High Voltage”.  
 
-![](https://www.safetysign.com/images/source/large-images/E3386.png)
 
 Who are you to tell me not to do something I have no idea how to use even if I wanted to?  I immediately googled. OK. I get it.  More magic that makes out lives easier.  Similar to rails g scaffold. You need to learn this from the inside out before you get the answers to the test. There is a method to the madness, and this section of the curriculum was true to form. 
 

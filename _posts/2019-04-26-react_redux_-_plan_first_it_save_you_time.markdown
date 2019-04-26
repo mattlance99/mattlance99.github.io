@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "React/Redux - Plan first, it save you time. "
-date:       2019-04-26 17:27:16 +0000
+title:      "React/Redux - Plan first, it saves you time. "
+date:       2019-04-26 13:27:17 -0400
 permalink:  react_redux_-_plan_first_it_save_you_time
 ---
 
